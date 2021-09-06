@@ -1,4 +1,4 @@
-# Comapring standard MT Evaluation Metrics
+# Comparing standard MT Evaluation Metrics
 Good evaluation metrics for LMG should:
 1. Have high correlation with human judgements
 2. Capture the semantics of log messages well
